@@ -25,7 +25,7 @@ SECRET_KEY = '3xuo)^l1=kp0-#mv9qkungde=z2)1=5$2@zf_516z_*j$9$drg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['csamaki.pythonanywhere.com']
 
 
 # Application definition
